@@ -1,0 +1,36 @@
+body {
+ background-color: #264653;
+ font-family: 'Merriweather', serif;
+ font-weight: 300;
+}
+
+h1 {
+  color: #E9C46A;
+  font-size: 25px;
+
+}
+
+img {
+  border-radius: 60%;
+}
+
+h2 {
+  font-size: 19px;
+  color: #F4A261;
+}
+
+a {
+  color: #A8DADC;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #E63946;
+}
+p {
+  color: white;
+}
+
+ul {
+  color: #A8DADC;
+}
